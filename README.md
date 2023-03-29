@@ -11,4 +11,6 @@
 7. url上就可以直接输入内容，访问gpt了
   http://localhost:8868/ask?msg=%E7%BB%99%E4%B8%80%E4%BA%9B%E4%BA%BA%E7%94%9F%E5%BB%BA%E8%AE%AE
   
-如图所示：
+效果如图所示：
+<img width="1445" alt="image" src="https://user-images.githubusercontent.com/6861424/228587148-9803e797-01f1-4621-825b-6d823bc487c8.png">
+
