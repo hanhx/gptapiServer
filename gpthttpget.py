@@ -3,8 +3,7 @@
  
 from flask import Flask, request, jsonify
 from revChatGPT.V3  import Chatbot
-chatbot = Chatbot(api_key="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")
-# chatbot = Chatbot(api_key="<api_key>")
+chatbot = Chatbot(api_key="<api_key>")
 
  
 app = Flask(__name__)
